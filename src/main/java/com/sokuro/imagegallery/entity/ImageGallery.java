@@ -9,7 +9,7 @@ import java.util.Date;
  * @since 5/31/2021
  */
 @Entity
-@Table(name = "image_gallerx")
+@Table(name = "image_gallery")
 public class ImageGallery {
 
     @Id
